@@ -26,6 +26,7 @@ with respect to fyp-1, we did recognition on BareFace, Glasses and Hat Recogniti
 
 Total GB: 5.08
 
+LINK: https://drive.google.com/file/d/1u1HvxfkB8Xbdw2SS_1QLOe8I2R95O3PF/view?usp=sharing
 Password For Dataset: #FYP17Trudetective1!
 
 IMAGES = [ BARE FACE, GLASSES, HATS ]
