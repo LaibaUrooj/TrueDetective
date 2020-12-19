@@ -22,7 +22,7 @@ with respect to fyp-1, we did recognition on BareFace, Glasses and Hat Recogniti
 
 
 *******************************************************************************************************************************************************************************
-							                                                    ITERATION - 1 & 2 [ FYP-1 ]
+		          ITERATION - 1 & 2 [ FYP-1 ]
 
 Total GB: 5.08
 Password For Dataset: #FYP17Trudetective1!
@@ -96,24 +96,34 @@ Total Images = 1199
 --------------
 P1
 BARE FACE= 30  , GLASSES= 21   ,HATS= 23   [Sub-Total =  74]
+
 P2
 BARE FACE= 23  , GLASSES= 19   ,HATS= 14   [Sub-Total =  56]
+
 P3
 BARE FACE= 38  , GLASSES= 25   ,HATS= 31   [Sub-Total =  94]
+
 P4
 BARE FACE= 26  , GLASSES= 34   ,HATS= 50   [Sub-Total =  110]
+
 P5
 BARE FACE= 45   , GLASSES= 32   ,HATS= 29  [Sub-Total =  106]
+
 P6
 BARE FACE= 14   , GLASSES= 19   ,HATS= 15  [Sub-Total =  48]
+
 P7
 BARE FACE= 13   , GLASSES= 23   ,HATS= 15  [Sub-Total =  51]
+
 P8
 BARE FACE= 10   , GLASSES= 52   ,HATS= 26  [Sub-Total =  88]
+
 P9
 BARE FACE= 11   , GLASSES= 06   ,HATS= 11  [Sub-Total =  28]
+
 P10
 BARE FACE= 16   , GLASSES= 16   ,HATS= 15  [Sub-Total =  47]
+
 
 			Total Images in Train Set = [702]
 
