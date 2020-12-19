@@ -25,10 +25,13 @@ with respect to fyp-1, we did recognition on BareFace, Glasses and Hat Recogniti
 		          ITERATION - 1 & 2 [ FYP-1 ]
 
 Total GB: 5.08
+
 Password For Dataset: #FYP17Trudetective1!
 
 IMAGES = [ BARE FACE, GLASSES, HATS ]
+
 Total Individuals = 10
+
 Total Images = 1199 
 
 > P1 - LAIBA
@@ -133,24 +136,34 @@ BARE FACE= 16   , GLASSES= 16   ,HATS= 15  [Sub-Total =  47]
 
 P1
 BARE FACE= 19  , GLASSES= 14   ,HATS= 21     [Sub-Total = 54]
+
 P2
 BARE FACE= 13  , GLASSES= 13   ,HATS= 10     [Sub-Total = 36]
+
 P3
 BARE FACE= 23  , GLASSES= 20   ,HATS= 10     [Sub-Total = 53]
+
 P4
 BARE FACE= 13  , GLASSES= 37   ,HATS= 39     [Sub-Total = 89]
+
 P5
 BARE FACE= 45  , GLASSES= 21   ,HATS= 22     [Sub-Total = 88]
+
 P6
 BARE FACE= 07  , GLASSES= 13   ,HATS= 12     [Sub-Total = 32]
+
 P7
 BARE FACE= 08  , GLASSES= 22   ,HATS= 11     [Sub-Total = 41]
+
 P8
 BARE FACE= 05  , GLASSES= 36   ,HATS= 15     [Sub-Total = 56]
+
 P9
 BARE FACE= 07  , GLASSES= 03  ,HATS= 09      [Sub-Total = 19]
+
 P10
 BARE FACE= 12  , GLASSES= 07  ,HATS= 10      [Sub-Total = 29]
+
 
 			Total Images in Train Set = [497]
 
