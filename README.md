@@ -4,7 +4,7 @@ Disguised Face Recognition w.r.t CCTV View
 
 For FYP-2021-TrueDetective17Batch
 
-The fypTrueDetective.py file contains the entire code for Disguise Face Recognition.
+The DisguisedTrueDetective_1.py file contains the entire code for Disguise Face Recognition.
 
 You need to upload it on colab and convert it into an .ipynb notebook and run (Because the files size is very big it was uploaded .py extention)
 
