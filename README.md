@@ -4,11 +4,13 @@ Disguised Face Recognition w.r.t CCTV View
 
 For FYP-2021-TrueDetective17Batch
 
-The DisguisedTrueDetective_1.py file contains the entire code for Disguise Face Recognition.
+The DisguisedTrueDetective_1.py file contains the entire code for Disguise Face Recognition. on CCTV Images
 
 You need to upload it on colab and convert it into an .ipynb notebook and run (Because the files size is very big it was uploaded .py extention)
 
-Along with the code the data set folder is uploaded by the name "TrueDetectiveDataset", It contains pictures of 10 different individuals each comprisig of atleast 200 pictures.
+DATASET USED: TrueDetectiveDataset-1
+
+It contains pictures of 10 different individuals each comprisig of atleast 200 pictures.
 The train and test data are disjoint. Download The dataset via the link provided and use the password given for it.
 
 The Disguised Appearances Contain:
@@ -18,7 +20,23 @@ The Disguised Appearances Contain:
 4) Fake Beard
 5) Face Masks
 
-with respect to fyp-1, we did recognition on BareFace, Glasses and Hat Recognition. The Test Train Data contains these images divided accordingly are information related to that is given below.
+The images comprises of:
+
+> various backgrounds
+
+> complex background
+
+> simple background
+
+> side views
+
+> light and dark conditions
+
+> occlusion
+
+> cctv view
+
+With respect to fyp-1, we did recognition on BareFace, Glasses and Hat Recognition. The Test Train Data contains these images divided accordingly are information related to that is given below.
 
 
 *******************************************************************************************************************************************************************************
