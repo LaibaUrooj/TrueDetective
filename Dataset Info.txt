@@ -1,13 +1,13 @@
 
 **************************************************************************************************************************************************
-							ITERATION - 1 & 2
+								INFO
 
 Total GB: 5.08
 Password For Dataset: #FYP17Trudetective1!
 
 https://drive.google.com/file/d/1u1HvxfkB8Xbdw2SS_1QLOe8I2R95O3PF/view?usp=sharing
 
-IMAGES = [ BARE FACE, GLASSES, HATS ]
+IMAGES = [ BARE FACE, GLASSES, HATS, FAKE BEARD, FACE MASK ]
 Total Individuals = 10
 Total Images = 1199 
 
@@ -15,6 +15,7 @@ Total Images = 1199
 	Total BareFace = 51
 	Total Glasses = 35
 	Total Hats = 44
+	Total Fake Beard = 45
 	Total images of p1 = 130
 
 > P2 - RUHMA
@@ -75,7 +76,7 @@ Total Images = 1199
 >> TRAIN SET:
 --------------
 P1
-BARE FACE= 19  , GLASSES= 17   ,HATS= 17   [Sub-Total =  53]
+BARE FACE= 19  , GLASSES= 17   ,HATS= 17, FAKEBEARD=18   [Sub-Total =  53]
 P2
 BARE FACE= 15  , GLASSES= 12   ,HATS= 11   [Sub-Total =  38]
 P3
@@ -102,7 +103,7 @@ BARE FACE= 12   , GLASSES= 09   ,HATS= 06  [Sub-Total =  27]
 --------------
 
 P1
-BARE FACE= 32,  GLASSES= 18    ,HATS= 27     [Sub-Total = 77]
+BARE FACE= 32,  GLASSES= 18    ,HATS= 27,  FAKEBEARD=27     [Sub-Total = 77]
 P2
 BARE FACE= 21  , GLASSES= 20   ,HATS= 16     [Sub-Total = 57]
 P3
