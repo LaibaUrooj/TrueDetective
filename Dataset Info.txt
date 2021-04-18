@@ -32,7 +32,7 @@ Total Images = 1199
 	Total Glasses = 42
 	Total Hats = 31
 	Total FakeBeard = 
-	Total FACEMASK = 
+	Total FACEMASK = 45
 	Total images of p3 = 134
 
 > P4 - ABDUR RAFAY
@@ -99,7 +99,7 @@ BARE FACE= 19  , GLASSES= 17   ,HATS= 17, FAKEBEARD= 18, FACEMASK= 17    [Sub-To
 P2
 BARE FACE= 15  , GLASSES= 12   ,HATS= 11, FAKEBEARD= , FACEMASK=    [Sub-Total =  38]
 P3
-BARE FACE= 20  , GLASSES= 12   ,HATS= 11, FAKEBEARD= , FACEMASK=    [Sub-Total =  43]
+BARE FACE= 20  , GLASSES= 12   ,HATS= 11, FAKEBEARD= , FACEMASK= 19   [Sub-Total =  43]
 P4
 BARE FACE= 15  , GLASSES= 18   ,HATS= 27, FAKEBEARD= , FACEMASK=    [Sub-Total =  60]
 P5
@@ -126,7 +126,7 @@ BARE FACE= 32,  GLASSES= 18    ,HATS= 27,  FAKEBEARD=27,  FACEMASK= 21     [Sub-
 P2
 BARE FACE= 21  , GLASSES= 20   ,HATS= 16,  FAKEBEARD= ,  FACEMASK=      [Sub-Total = 57]
 P3
-BARE FACE= 41  , GLASSES= 30   ,HATS= 20,  FAKEBEARD= ,  FACEMASK=      [Sub-Total = 91]
+BARE FACE= 41  , GLASSES= 30   ,HATS= 20,  FAKEBEARD= ,  FACEMASK= 26     [Sub-Total = 91]
 P4
 BARE FACE= 24  , GLASSES= 53   ,HATS= 62,  FAKEBEARD= ,  FACEMASK=      [Sub-Total = 139]
 P5
