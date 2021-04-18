@@ -24,7 +24,7 @@ Total Images = 1199
 	Total Glasses = 32
 	Total Hats = 27
 	Total FakeBeard = 
-	Total FACEMASK = 
+	Total FACEMASK = 31
 	Total images of p2 = 95
 
 > P3 - ABDUL SAAD
@@ -97,7 +97,7 @@ Total Images = 1199
 P1
 BARE FACE= 19  , GLASSES= 17    ,HATS= 17, FAKEBEARD= 18, FACEMASK= 17   [Sub-Total =  88]
 P2
-BARE FACE= 15  , GLASSES= 12    ,HATS= 11, FAKEBEARD= , FACEMASK=    [Sub-Total =  38]
+BARE FACE= 15  , GLASSES= 12    ,HATS= 11, FAKEBEARD= , FACEMASK= 15   [Sub-Total =  38]
 P3
 BARE FACE= 20  , GLASSES= 12    ,HATS= 11, FAKEBEARD= , FACEMASK= 19   [Sub-Total =  43]
 P4
@@ -124,7 +124,7 @@ BARE FACE= 12   , GLASSES= 09   ,HATS= 06, FAKEBEARD= , FACEMASK=   [Sub-Total =
 P1
 BARE FACE= 32,  GLASSES= 18    ,HATS= 27,  FAKEBEARD=27,  FACEMASK= 21     [Sub-Total = 125]
 P2
-BARE FACE= 21  , GLASSES= 20   ,HATS= 16,  FAKEBEARD= ,  FACEMASK=      [Sub-Total = 57]
+BARE FACE= 21  , GLASSES= 20   ,HATS= 16,  FAKEBEARD= ,  FACEMASK= 16     [Sub-Total = 57]
 P3
 BARE FACE= 41  , GLASSES= 30   ,HATS= 20,  FAKEBEARD= ,  FACEMASK= 26     [Sub-Total = 91]
 P4
