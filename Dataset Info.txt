@@ -71,7 +71,7 @@ Total Images = 1199
 	Total BareFace = 15
 	Total Glasses = 87
 	Total Hats = 40
-	Total FakeBeard = 
+	Total FakeBeard = 32
 	Total FACEMASK = 
 	Total images of p8 = 142
 
@@ -107,7 +107,7 @@ BARE FACE= 14   , GLASSES= 14   ,HATS= 14, FAKEBEARD= , FACEMASK=   [Sub-Total =
 P6
 BARE FACE= 10   , GLASSES= 12   ,HATS= 14, FAKEBEARD= 18, FACEMASK=   [Sub-Total =  36]
 P7
-BARE FACE= 09   , GLASSES= 12   ,HATS= 08, FAKEBEARD= , FACEMASK=   [Sub-Total =  29]
+BARE FACE= 09   , GLASSES= 12   ,HATS= 08, FAKEBEARD= 10, FACEMASK=   [Sub-Total =  29]
 P8
 BARE FACE= 05   , GLASSES= 21   ,HATS= 10, FAKEBEARD= , FACEMASK=   [Sub-Total =  36]
 P9
@@ -134,7 +134,7 @@ BARE FACE= 76  , GLASSES= 39   ,HATS= 37,  FAKEBEARD= ,  FACEMASK=      [Sub-Tot
 P6
 BARE FACE= 11  , GLASSES= 19   ,HATS= 13,  FAKEBEARD=27 ,  FACEMASK=      [Sub-Total = 43]
 P7
-BARE FACE= 12  , GLASSES= 33   ,HATS= 18,  FAKEBEARD= ,  FACEMASK=      [Sub-Total = 63]
+BARE FACE= 12  , GLASSES= 33   ,HATS= 18,  FAKEBEARD=19 ,  FACEMASK=      [Sub-Total = 63]
 P8
 BARE FACE= 10  , GLASSES= 66   ,HATS= 30,  FAKEBEARD= ,  FACEMASK=      [Sub-Total = 106]
 P9
