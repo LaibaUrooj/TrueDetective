@@ -80,8 +80,8 @@ Total Images = 1199
 	Total Glasses = 09
 	Total Hats = 20
 	Total FakeBeard = 48
-	Total FACEMASK = 
-	Total images of p9 = 47
+	Total FACEMASK = 39
+	Total images of p9 = 134
 
 > P10 - MUSAAB
 	Total BareFace = 28
@@ -111,7 +111,7 @@ BARE FACE= 09   , GLASSES= 12   ,HATS= 08, FAKEBEARD= 10, FACEMASK= 22  [Sub-Tot
 P8
 BARE FACE= 05   , GLASSES= 21   ,HATS= 10, FAKEBEARD= 14, FACEMASK=   [Sub-Total =  36]
 P9
-BARE FACE= 08   , GLASSES= 05   ,HATS= 07, FAKEBEARD= 21, FACEMASK=   [Sub-Total =  20]
+BARE FACE= 08   , GLASSES= 05   ,HATS= 07, FAKEBEARD= 21, FACEMASK= 17  [Sub-Total =  58]
 P10
 BARE FACE= 12   , GLASSES= 09   ,HATS= 06, FAKEBEARD= 22, FACEMASK=   [Sub-Total =  27]
 
@@ -138,7 +138,7 @@ BARE FACE= 12  , GLASSES= 33   ,HATS= 18,  FAKEBEARD=19 ,  FACEMASK= 31     [Sub
 P8
 BARE FACE= 10  , GLASSES= 66   ,HATS= 30,  FAKEBEARD=17 ,  FACEMASK=      [Sub-Total = 106]
 P9
-BARE FACE= 10  , GLASSES= 04   ,HATS= 13,  FAKEBEARD= 27,  FACEMASK=       [Sub-Total = 27]
+BARE FACE= 10  , GLASSES= 04   ,HATS= 13,  FAKEBEARD= 27,  FACEMASK= 22      [Sub-Total = 76]
 P10
 BARE FACE= 16  , GLASSES= 14   ,HATS= 19,  FAKEBEARD= 26,  FACEMASK=       [Sub-Total = 49]
 
