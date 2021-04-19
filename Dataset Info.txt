@@ -87,7 +87,7 @@ Total Images = 1199
 	Total BareFace = 28
 	Total Glasses = 23
 	Total Hats = 25
-	Total FakeBeard = 
+	Total FakeBeard = 48
 	Total FACEMASK = 
 	Total images of p10 = 76
 
@@ -113,7 +113,7 @@ BARE FACE= 05   , GLASSES= 21   ,HATS= 10, FAKEBEARD= 14, FACEMASK=   [Sub-Total
 P9
 BARE FACE= 08   , GLASSES= 05   ,HATS= 07, FAKEBEARD= 21, FACEMASK=   [Sub-Total =  20]
 P10
-BARE FACE= 12   , GLASSES= 09   ,HATS= 06, FAKEBEARD= , FACEMASK=   [Sub-Total =  27]
+BARE FACE= 12   , GLASSES= 09   ,HATS= 06, FAKEBEARD= 22, FACEMASK=   [Sub-Total =  27]
 
 			Total Images in Train Set = [384]
 
@@ -140,7 +140,7 @@ BARE FACE= 10  , GLASSES= 66   ,HATS= 30,  FAKEBEARD=17 ,  FACEMASK=      [Sub-T
 P9
 BARE FACE= 10  , GLASSES= 04  ,HATS= 13,  FAKEBEARD= 27,  FACEMASK=       [Sub-Total = 27]
 P10
-BARE FACE= 16  , GLASSES= 14  ,HATS= 19,  FAKEBEARD= ,  FACEMASK=       [Sub-Total = 49]
+BARE FACE= 16  , GLASSES= 14  ,HATS= 19,  FAKEBEARD= 26,  FACEMASK=       [Sub-Total = 49]
 
 			Total Images in Train Set = [810]
 
