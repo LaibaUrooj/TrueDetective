@@ -48,8 +48,8 @@ Total Images = 1199
 	Total Glasses = 53
 	Total Hats = 51
 	Total FakeBeard = 40
-	Total FACEMASK = 
-	Total images of p5 = 194
+	Total FACEMASK = 48
+	Total images of p5 = 282
 
 > P6 - HASSAN
 	Total BareFace = 21
@@ -103,7 +103,7 @@ BARE FACE= 20  , GLASSES= 12    ,HATS= 11, FAKEBEARD= 17, FACEMASK= 19   [Sub-To
 P4
 BARE FACE= 15  , GLASSES= 18    ,HATS= 27, FAKEBEARD= 16, FACEMASK= 27   [Sub-Total =  103]
 P5
-BARE FACE= 14   , GLASSES= 14   ,HATS= 14, FAKEBEARD= 18, FACEMASK=   [Sub-Total =  42]
+BARE FACE= 14   , GLASSES= 14   ,HATS= 14, FAKEBEARD= 18, FACEMASK= 21   [Sub-Total =  42]
 P6
 BARE FACE= 10   , GLASSES= 12   ,HATS= 14, FAKEBEARD= 18, FACEMASK=   [Sub-Total =  36]
 P7
@@ -130,7 +130,7 @@ BARE FACE= 41  , GLASSES= 30   ,HATS= 20,  FAKEBEARD=21 ,  FACEMASK= 26     [Sub
 P4
 BARE FACE= 24  , GLASSES= 53   ,HATS= 62,  FAKEBEARD=30 ,  FACEMASK= 35     [Sub-Total = 204]
 P5
-BARE FACE= 76  , GLASSES= 39   ,HATS= 37,  FAKEBEARD=22 ,  FACEMASK=      [Sub-Total = 152]
+BARE FACE= 76  , GLASSES= 39   ,HATS= 37,  FAKEBEARD=22 ,  FACEMASK= 27     [Sub-Total = 152]
 P6
 BARE FACE= 11  , GLASSES= 19   ,HATS= 13,  FAKEBEARD=27 ,  FACEMASK=      [Sub-Total = 43]
 P7
