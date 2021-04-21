@@ -68,12 +68,12 @@ Total Images = 1199
 	Total images of p7 = 177
 
 > P8 - IBRAHIM
-	Total BareFace = 15
+	Total BareFace = 19
 	Total Glasses = 87
 	Total Hats = 40
 	Total FakeBeard = 31
-	Total FACEMASK = 
-	Total images of p8 = 142
+	Total FACEMASK = 24
+	Total images of p8 = 201
 
 > P9 - ANAS
 	Total BareFace = 18
@@ -116,14 +116,14 @@ P6
 BARE FACE= 10   , GLASSES= 12   ,HATS= 14, FAKEBEARD= 18, FACEMASK= 16   [Sub-Total =  70]
 P7
 BARE FACE= 09   , GLASSES= 12   ,HATS= 08, FAKEBEARD= 10, FACEMASK= 22   [Sub-Total =  61]
-P8
-BARE FACE= 05   , GLASSES= 21   ,HATS= 10, FAKEBEARD= 14, FACEMASK=   [Sub-Total =  36]
+P8 
+BARE FACE= 09   , GLASSES= 21   ,HATS= 10, FAKEBEARD= 14, FACEMASK= 11   [Sub-Total =  65]
 P9
-BARE FACE= 08   , GLASSES= 05   ,HATS= 07, FAKEBEARD= 21, FACEMASK= 17  [Sub-Total =  58]
-P10
-BARE FACE= 12   , GLASSES= 09   ,HATS= 06, FAKEBEARD= 22, FACEMASK= 11  [Sub-Total =  60]
+BARE FACE= 08   , GLASSES= 05   ,HATS= 07, FAKEBEARD= 21, FACEMASK= 17   [Sub-Total =  58]
+P10 
+BARE FACE= 12   , GLASSES= 09   ,HATS= 06, FAKEBEARD= 22, FACEMASK= 11   [Sub-Total =  60]
 P11
-BARE FACE= 19   , GLASSES= 15   ,HATS= 17, FAKEBEARD= 18, FACEMASK= 11  [Sub-Total =  ]
+BARE FACE= 19   , GLASSES= 15   ,HATS= 17, FAKEBEARD= 18, FACEMASK= 11   [Sub-Total =  80]
 
 			Total Images in Train Set = [384]
 
@@ -146,13 +146,13 @@ BARE FACE= 11  , GLASSES= 19   ,HATS= 13,  FAKEBEARD=27 ,  FACEMASK= 22     [Sub
 P7
 BARE FACE= 12  , GLASSES= 33   ,HATS= 18,  FAKEBEARD=19 ,  FACEMASK= 31     [Sub-Total = 113]
 P8
-BARE FACE= 10  , GLASSES= 66   ,HATS= 30,  FAKEBEARD=17 ,  FACEMASK=      [Sub-Total = 106]
+BARE FACE= 10  , GLASSES= 66   ,HATS= 30,  FAKEBEARD=17 ,  FACEMASK= 14     [Sub-Total = 137]
 P9
 BARE FACE= 10  , GLASSES= 04   ,HATS= 13,  FAKEBEARD= 27,  FACEMASK= 22      [Sub-Total = 76]
 P10
 BARE FACE= 16  , GLASSES= 14   ,HATS= 19,  FAKEBEARD= 26,  FACEMASK= 15      [Sub-Total = 90]
 P11
-BARE FACE= 26   , GLASSES= 26   ,HATS= 26, FAKEBEARD= 26, FACEMASK= 14     [Sub-Total =  ]
+BARE FACE= 26  , GLASSES= 26   ,HATS= 26,  FAKEBEARD= 26,  FACEMASK= 14     [Sub-Total =  118]
 
 			Total Images in Train Set = [810]
 
