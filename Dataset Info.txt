@@ -94,7 +94,7 @@ Total Images = 1199
 > P11 - MUNZAR
 	Total BareFace = 45
 	Total Glasses = 41
-	Total Hats = 
+	Total Hats = 43
 	Total FakeBeard = 44
 	Total FACEMASK = 
 	Total images of p10 = 198
@@ -123,7 +123,7 @@ BARE FACE= 08   , GLASSES= 05   ,HATS= 07, FAKEBEARD= 21, FACEMASK= 17  [Sub-Tot
 P10
 BARE FACE= 12   , GLASSES= 09   ,HATS= 06, FAKEBEARD= 22, FACEMASK= 11  [Sub-Total =  60]
 P11
-BARE FACE= 19   , GLASSES= 15   ,HATS= , FAKEBEARD= 18, FACEMASK=   [Sub-Total =  ]
+BARE FACE= 19   , GLASSES= 15   ,HATS= , FAKEBEARD= 18, FACEMASK= 17  [Sub-Total =  ]
 
 			Total Images in Train Set = [384]
 
@@ -152,7 +152,7 @@ BARE FACE= 10  , GLASSES= 04   ,HATS= 13,  FAKEBEARD= 27,  FACEMASK= 22      [Su
 P10
 BARE FACE= 16  , GLASSES= 14   ,HATS= 19,  FAKEBEARD= 26,  FACEMASK= 15      [Sub-Total = 90]
 P11
-BARE FACE= 26   , GLASSES= 26   ,HATS= , FAKEBEARD= 26, FACEMASK=   [Sub-Total =  ]
+BARE FACE= 26   , GLASSES= 26   ,HATS= , FAKEBEARD= 26, FACEMASK= 26  [Sub-Total =  ]
 
 			Total Images in Train Set = [810]
 
