@@ -5,11 +5,11 @@
 Total GB: 5.08
 Password For Dataset: #FYP17Trudetective1!
 
-https://drive.google.com/file/d/1u1HvxfkB8Xbdw2SS_1QLOe8I2R95O3PF/view?usp=sharing
+https://drive.google.com/drive/folders/1Yo1DerbK6ziiCmWEPTX7wViSQbCywfQX?usp=sharing
 
 IMAGES = [ BARE FACE, GLASSES, HATS, FAKE BEARD, FACE MASK ]
-Total Individuals = 10
-Total Images = 1199 
+Total Individuals = 11
+Total Images =  2201
 
 > P1 - LAIBA
 	Total BareFace = 51
@@ -107,7 +107,7 @@ BARE FACE= 19  , GLASSES= 17    ,HATS= 17, FAKEBEARD= 18, FACEMASK= 17   [Sub-To
 P2
 BARE FACE= 15  , GLASSES= 12    ,HATS= 11, FAKEBEARD= 15, FACEMASK= 15   [Sub-Total =  68]
 P3
-BARE FACE= 20  , GLASSES= 12    ,HATS= 11, FAKEBEARD= 17, FACEMASK= 19   [Sub-Total =  79
+BARE FACE= 20  , GLASSES= 12    ,HATS= 11, FAKEBEARD= 17, FACEMASK= 19   [Sub-Total =  79]
 P4
 BARE FACE= 15  , GLASSES= 18    ,HATS= 27, FAKEBEARD= 16, FACEMASK= 27   [Sub-Total =  103]
 P5
@@ -125,7 +125,7 @@ BARE FACE= 12   , GLASSES= 09   ,HATS= 06, FAKEBEARD= 22, FACEMASK= 11   [Sub-To
 P11
 BARE FACE= 19   , GLASSES= 15   ,HATS= 17, FAKEBEARD= 18, FACEMASK= 11   [Sub-Total =  80]
 
-			Total Images in Train Set = [384]
+			Total Images in Train Set = [774]
 
 --------------
 >> TEST SET:
@@ -154,6 +154,6 @@ BARE FACE= 16  , GLASSES= 14   ,HATS= 19,  FAKEBEARD= 26,  FACEMASK= 15      [Su
 P11
 BARE FACE= 26  , GLASSES= 26   ,HATS= 26,  FAKEBEARD= 26,  FACEMASK= 14     [Sub-Total =  118]
 
-			Total Images in Train Set = [810]
+			Total Images in Train Set = [1337]
 
 
