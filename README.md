@@ -12,7 +12,7 @@ You need to upload it on colab and convert it into an .ipynb notebook and run (B
 >> DATASET USED: TrueDetectiveDataset-1
 --------------
 
-It contains pictures of 10 different individuals each comprisig of atleast 200 pictures.
+It contains pictures of 11 different individuals each comprisig of atleast 250 pictures.
 The train and test data are disjoint. Download The dataset via the link provided and use the password given for it.
 
 The Disguised Appearances Contain:
@@ -38,7 +38,9 @@ The images comprises of:
 
 > cctv view
 
-With respect to fyp-1, we did recognition on BareFace, Glasses and Hat Recognition. The Test Train Data contains these images divided accordingly are information related to that is given below.
+With respect to fyp-1, we did recognition on BareFace, Glasses and Hat Recognition. 
+With respect to fyp-2  we did recognition on Fake Baerd, Face Mask. 
+The Test Train Data distribution is as below.
 
 
 *******************************************************************************************************************************************************************************
