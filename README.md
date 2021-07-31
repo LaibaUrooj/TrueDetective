@@ -12,11 +12,11 @@ True Detective is an intelligent system that recognizes a person from a cctv poi
 
      (2) The face of the person may be bare face or disguised.
 
-  (3) Their are 4 disguises in the data ( face mask, glasses, fake beard, hats )
+    (3) Their are 4 disguises in the data ( face mask, glasses, fake beard, hats )
 
-(4) The recognition is done on CCTV images and videos.
+    (4) The recognition is done on CCTV images and videos.
 
-(5) The data is self collected images from cctv point of view. (full info on datasetinfo file)
+    (5) The data is self collected images from cctv point of view. (full info on datasetinfo file)
 
 The DisguisedTrueDetective_1.py file contains the entire code for Disguise Face Recognition. on CCTV Images
 
