@@ -6,6 +6,14 @@ For FYP-2021-TrueDetective17Batch
 
 True Detective is an intelligent system that recognizes a person from a cctv point of view. The person may disguise themselves using face mask, fake beard, hasts, glasses or just their bare face. 
 
+Breif Description
+
+(1) TrueDetective is an intelligent system that finds a person through their face.
+(2) The face of the person may be bare face or disguised.
+(3) Their are 4 disguises in the data ( face mask, glasses, fake beard, hats )
+(4) The recognition is done on CCTV images and videos.
+(5) The data is self collected images from cctv point of view. (full info on github)
+
 The DisguisedTrueDetective_1.py file contains the entire code for Disguise Face Recognition. on CCTV Images
 
 You need to upload it on colab and convert it into an .ipynb notebook and run (Because the files size is very big it was uploaded .py extention)
