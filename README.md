@@ -8,11 +8,11 @@ True Detective is an intelligent system that recognizes a person from a cctv poi
 
 [Breif Description]
 
-(1) TrueDetective is an intelligent system that finds a person through their face.
+     (1) TrueDetective is an intelligent system that finds a person through their face.
 
-(2) The face of the person may be bare face or disguised.
+     (2) The face of the person may be bare face or disguised.
 
-(3) Their are 4 disguises in the data ( face mask, glasses, fake beard, hats )
+  (3) Their are 4 disguises in the data ( face mask, glasses, fake beard, hats )
 
 (4) The recognition is done on CCTV images and videos.
 
